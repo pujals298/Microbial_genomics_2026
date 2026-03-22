@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Usage: bash mauve_pseudochromosome.sh alignment.fa [gap_size] [output.fa]
+# This script was used on the MCM output file to format it as a typical pseudochromosome
 
 FASTA="${1:?Usage: $0 alignment.fa [gap_size] [output.fa]}"
 GAP_SIZE="${2:-100}"
