@@ -1,2 +1,4 @@
-# Microbial_genomics_2026
-All the data and code used in the microbial genomics course at UAB
+# Microbial genomics 2026 Repository
+
+This repository is for the display of the data and code used in the Micorbial Genomics course at UAB for group A.
+It is organized in the 3 different assignments. In each folder there's all the code used, a "data" folder and a "results" folder. 
